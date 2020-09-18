@@ -1,12 +1,14 @@
 # Rock-Paper-Scissors-Game
-Rock Paper Scissors Game - My very first Javascript game. Woohooo
+Rock Paper Scissors Game - My very first game written in HTML, CSS and Javascript. Woohooo
 
-Variables declared;
-Functions created, called and returned output value;
-If, else, switch statements ordered;
-DOM Elements selected and manipulated;
-Events listened;
+- Declare Variables
+- Create Functions, call it and return output value;
+- Give order using If, else, switch statements ;
+- Select and manipulate DOM Elements
+- Call and take value from Events;
+
 Every steps have been carefully noted in the comment lines 
+
 See it's live: https://khunglongxanh9999.github.io/Rock-Paper-Scissors-Game/
 
 
