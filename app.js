@@ -79,6 +79,8 @@ function lose(userChoice, computerChoice) {
 }
 
 function draw(userChoice, computerChoice) {
+    userScore++;
+    computerScore++;
     resultDiv.innerHTML = "it's a DRAW 🤗 ";
 }
 
