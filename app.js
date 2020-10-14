@@ -1,5 +1,5 @@
 
-// always storage DOM elements in varibles on top because we won't need to repeat querySelector many times
+// always storage DOM elements in varibles on top because we won't need to repeat querySelector again and again
 const userScoreSpan = document.querySelector("#user-score");
 const computerScoreSpan = document.querySelector("#computer-score");
 const scoreBoardDiv = document.querySelector(".score-board");
