@@ -7,7 +7,7 @@ Rock Paper Scissors Game - My very first game written in HTML, CSS and Javascrip
 - Select and manipulate DOM Elements
 - Call and take value from Events;
 
-Every steps have been carefully noted in the comment lines 
+All steps have been carefully noted in the comment lines 
 
 See it's live: https://khunglongxanh9999.github.io/Rock-Paper-Scissors-Game/
 
